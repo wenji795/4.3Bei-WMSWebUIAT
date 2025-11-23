@@ -1,0 +1,12 @@
+#装包时把包和版本写进来，好习惯！
+
+elenium==4.33.0
+webdriver-manager==4.0.2
+pymysql==1.1.1
+pytest==8.3.2
+openpyxl==3.1.5
+allure-pytest==2.13.5
+jinja2==3.1.4 #待定
+pytest-rerunfailures==15.1
+pytest-xdist==3.7.0
+pyautogui==0.9.54

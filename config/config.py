@@ -12,13 +12,13 @@ EDGE_DRIVER_PATH = "./driver/"
 #是否开启无头模式
 HEADLESS = False
 
-# excel个时代测试用例文件配置
+# excel格式的测试用例文件配置
 EXCEL_FILE = "./data/3.7_6.xlsx"
 EXCEL_SHEET_NAME = "Sheet1"
 
-# # mysql配置
-# DB_HOST = "8.138.193.96"
-# DB_PORT = 3306
-# DB_NAME = "mydb"
-# DB_USER = "root"
-# DB_PASSWORD = "beimeng2025"
+# wms的mysql配置
+DB_HOST = "60.204.225.104"
+DB_PORT = 3306
+DB_NAME = "wms"
+DB_USER = "student_xiaobei"
+DB_PASSWORD = "xiaobeiup"

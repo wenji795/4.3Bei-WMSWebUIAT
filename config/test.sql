@@ -1,0 +1,7 @@
+
+
+CREATE PROCEDURE TEST()
+BEGIN
+    SELECT * FROM sys_user;
+END //
+

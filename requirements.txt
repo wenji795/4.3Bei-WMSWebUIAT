@@ -3,6 +3,7 @@
 elenium==4.33.0
 webdriver-manager==4.0.2
 pymysql==1.1.1
+sqlparse==0.5.3
 pytest==8.3.2
 openpyxl==3.1.5
 allure-pytest==2.13.5
